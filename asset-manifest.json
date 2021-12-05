@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.16e18a48.chunk.css",
-    "main.js": "/my-app/static/js/main.e6405bb8.chunk.js",
-    "main.js.map": "/my-app/static/js/main.e6405bb8.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.67e01d68.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.67e01d68.js.map",
-    "static/js/2.74e666b0.chunk.js": "/my-app/static/js/2.74e666b0.chunk.js",
-    "static/js/2.74e666b0.chunk.js.map": "/my-app/static/js/2.74e666b0.chunk.js.map",
-    "static/js/3.7c72e190.chunk.js": "/my-app/static/js/3.7c72e190.chunk.js",
-    "static/js/3.7c72e190.chunk.js.map": "/my-app/static/js/3.7c72e190.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.35515e901d824348edc86954c722c49e.js": "/my-app/precache-manifest.35515e901d824348edc86954c722c49e.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.16e18a48.chunk.css.map": "/my-app/static/css/main.16e18a48.chunk.css.map",
-    "static/js/2.74e666b0.chunk.js.LICENSE.txt": "/my-app/static/js/2.74e666b0.chunk.js.LICENSE.txt"
+    "main.css": "/Text-utillis/static/css/main.16e18a48.chunk.css",
+    "main.js": "/Text-utillis/static/js/main.111307fe.chunk.js",
+    "main.js.map": "/Text-utillis/static/js/main.111307fe.chunk.js.map",
+    "runtime-main.js": "/Text-utillis/static/js/runtime-main.c0a9ce83.js",
+    "runtime-main.js.map": "/Text-utillis/static/js/runtime-main.c0a9ce83.js.map",
+    "static/js/2.c488a02e.chunk.js": "/Text-utillis/static/js/2.c488a02e.chunk.js",
+    "static/js/2.c488a02e.chunk.js.map": "/Text-utillis/static/js/2.c488a02e.chunk.js.map",
+    "static/js/3.13caf656.chunk.js": "/Text-utillis/static/js/3.13caf656.chunk.js",
+    "static/js/3.13caf656.chunk.js.map": "/Text-utillis/static/js/3.13caf656.chunk.js.map",
+    "index.html": "/Text-utillis/index.html",
+    "precache-manifest.cfef652b20e9728f55e887c87afd7e49.js": "/Text-utillis/precache-manifest.cfef652b20e9728f55e887c87afd7e49.js",
+    "service-worker.js": "/Text-utillis/service-worker.js",
+    "static/css/main.16e18a48.chunk.css.map": "/Text-utillis/static/css/main.16e18a48.chunk.css.map",
+    "static/js/2.c488a02e.chunk.js.LICENSE.txt": "/Text-utillis/static/js/2.c488a02e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67e01d68.js",
-    "static/js/2.74e666b0.chunk.js",
+    "static/js/runtime-main.c0a9ce83.js",
+    "static/js/2.c488a02e.chunk.js",
     "static/css/main.16e18a48.chunk.css",
-    "static/js/main.e6405bb8.chunk.js"
+    "static/js/main.111307fe.chunk.js"
   ]
 }
